@@ -10,8 +10,8 @@ public class Ball {
         this.x = 400; // Initial horizontal position
         this.y = 300; // Initial vertical position
         this.radius = 10; // Radius of the ball
-        this.dx = 5; // Initial horizontal speed
-        this.dy = -5; // Initial vertical speed
+        this.dx = 3; // Initial horizontal speed
+        this.dy = -3; // Initial vertical speed
     }
 
     public void update() {
